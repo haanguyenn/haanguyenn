@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @haanguyenn
+- 👀 I’m just a newbie playing around python, hehe
