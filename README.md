@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @haanguyenn 
-- 👀 I’m a newbie playing around python 
-- 👣 Just learning 'cause it's fun. Definitely not for career path (I know I'm not born with IT things, haha)
-- 🥦 English & Japanese speaking 
+- 👋 I’m @haanguyenn 
+- 👀 a newbie playing around Python everyday 
+- 👉🏻 🇻🇳 🇺🇸 🇯🇵 🇨🇳 
