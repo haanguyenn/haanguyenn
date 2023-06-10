@@ -1,3 +1,2 @@
 - 👋 I’m @haanguyenn 
-- 👀 a newbie playing around Python everyday 
 - 👉🏻 🇻🇳 🇺🇸 🇯🇵 🇨🇳 
